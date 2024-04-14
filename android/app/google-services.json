@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "264268233364",
+    "project_id": "smart-pass-349cc",
+    "storage_bucket": "smart-pass-349cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264268233364:android:5a07a52e9725b0461f1281",
+        "android_client_info": {
+          "package_name": "com.example.qrem_pass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264268233364-fufm49ij1v9n6tmklvtun3il5jolvlof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNclBwIRXBWHTT1c9Us3IxfYdt5ZNdjhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264268233364-fufm49ij1v9n6tmklvtun3il5jolvlof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264268233364:android:31f8d64820cf330d1f1281",
+        "android_client_info": {
+          "package_name": "com.example.scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264268233364-fufm49ij1v9n6tmklvtun3il5jolvlof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNclBwIRXBWHTT1c9Us3IxfYdt5ZNdjhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264268233364-fufm49ij1v9n6tmklvtun3il5jolvlof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
